@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">RoboChef cooking studio</title>
+  <desc id="desc">Turn a recipe into a transparent cooking story demo.</desc>
+  <rect width="1200" height="630" fill="#fbf8f2"/>
+  <circle cx="1050" cy="80" r="280" fill="#fed7aa"/>
+  <circle cx="1120" cy="560" r="220" fill="#ffedd5"/>
+  <text x="90" y="170" fill="#c2410c" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="8">ROBOCHEF</text>
+  <text x="90" y="285" fill="#1c1917" font-family="Arial, sans-serif" font-size="76" font-weight="700">Make your next</text>
+  <text x="90" y="375" fill="#ea580c" font-family="Arial, sans-serif" font-size="76" font-weight="700">dish unforgettable.</text>
+  <text x="90" y="455" fill="#57534e" font-family="Arial, sans-serif" font-size="25">Recipe briefs, transparent demo jobs, and a cooking-tech future.</text>
+  <rect x="930" y="250" width="120" height="120" rx="35" fill="#ea580c"/>
+  <text x="969" y="335" fill="#fff" font-family="Arial, sans-serif" font-size="70" font-weight="700">R</text>
+</svg>
